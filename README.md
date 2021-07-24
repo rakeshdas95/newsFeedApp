@@ -1,0 +1,2 @@
+# newsFeedApp
+In My News we will load top headlines on the home page and we have categories option to see top headlines based on categories and country. Here I have used api calls to make the requests to a website named newsapi.org which returns all the top news around the world. Using this data I have made models to represent the data in the app using various flutter models. Here Many small flutter pieces are linked together to make the app look responsive. 
