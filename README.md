@@ -1,7 +1,7 @@
 # newsfeedapp
 
 A flutter application to show us news feeds.
-![Gif_20210724075930699_by_gifguru](https://user-images.githubusercontent.com/59731776/126855020-8dec0a24-41c7-423b-9efa-4cbf01bd7e1b.gif)
+![MyNews](https://user-images.githubusercontent.com/59731776/126855395-d415115a-d185-49c0-9a23-ccbaf5c0055c.gif)
 
 ## Getting Started
 
